@@ -10,6 +10,14 @@ The package contains no game disc, retail BIOS, generated retail game code, or s
 **BIOS:** SCPH-1001 (USA) retail BIOS, 524288 bytes, SHA-256 `71af94d1e47a68c11e8fdb9f8368040601514a42a5a399cda48c7d3bff1e99d3`. Supply your own dump; releases do not use OpenBIOS.
 <!-- /release-standard:bios -->
 
+## Status
+
+Latest release: v0.1.1. The update to pin I 0.1.23 is held back: on it the game runs at about half speed with the OpenGL renderer.
+
+- Not claimed: full-game completion, audio fidelity or multiplayer. Setup and gameplay reports from Linux, macOS and Steam Deck are welcome.
+
+Known issues for the current version are in its [release notes](https://github.com/alexbeavs-ps1-ports/pro-pinball-timeshock-recomp/releases/tag/v0.1.1).
+
 ## Setup
 
 1. Extract the complete setup ZIP into a writable folder.
